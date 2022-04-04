@@ -1,5 +1,5 @@
 const planets = [];
-const G = 0.1;
+const G = 0.05;
 
 function setup() {
   createCanvas(windowWidth-25, windowHeight-25);
